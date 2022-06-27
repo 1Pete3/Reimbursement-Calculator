@@ -1,0 +1,11 @@
+C:\Users\skowr\Desktop\DOTNET\Book\Reimbursement Calculator\bin\Debug\Reimbursement Calculator.exe.config
+C:\Users\skowr\Desktop\DOTNET\Book\Reimbursement Calculator\bin\Debug\Reimbursement Calculator.exe
+C:\Users\skowr\Desktop\DOTNET\Book\Reimbursement Calculator\bin\Debug\Reimbursement Calculator.pdb
+C:\Users\skowr\Desktop\DOTNET\Book\Reimbursement Calculator\obj\Debug\Reimbursement Calculator.csproj.AssemblyReference.cache
+C:\Users\skowr\Desktop\DOTNET\Book\Reimbursement Calculator\obj\Debug\Reimbursement Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\skowr\Desktop\DOTNET\Book\Reimbursement Calculator\obj\Debug\Reimbursement_Calculator.Form1.resources
+C:\Users\skowr\Desktop\DOTNET\Book\Reimbursement Calculator\obj\Debug\Reimbursement_Calculator.Properties.Resources.resources
+C:\Users\skowr\Desktop\DOTNET\Book\Reimbursement Calculator\obj\Debug\Reimbursement Calculator.csproj.GenerateResource.cache
+C:\Users\skowr\Desktop\DOTNET\Book\Reimbursement Calculator\obj\Debug\Reimbursement Calculator.csproj.CoreCompileInputs.cache
+C:\Users\skowr\Desktop\DOTNET\Book\Reimbursement Calculator\obj\Debug\Reimbursement Calculator.exe
+C:\Users\skowr\Desktop\DOTNET\Book\Reimbursement Calculator\obj\Debug\Reimbursement Calculator.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reimbursement Calculator", "Reimbursement Calculator.csproj", "{394E3226-A1C0-475C-B081-5537B4F957FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{394E3226-A1C0-475C-B081-5537B4F957FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394E3226-A1C0-475C-B081-5537B4F957FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394E3226-A1C0-475C-B081-5537B4F957FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394E3226-A1C0-475C-B081-5537B4F957FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F05A254-9896-4544-8C29-3D78CA070695}
+	EndGlobalSection
+EndGlobal
